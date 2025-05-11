@@ -12,3 +12,5 @@ const connectDB = async () => {
 }
 
 export default connectDB
+
+// This component is a database connetion file with mongodb aur any database 
