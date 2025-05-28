@@ -481,4 +481,3 @@ const getWatchHistory = asynchandler(async(req,res) =>{
 
 export {registerUser,loginuser,logoutUser,refreshAccessToken,changeCurrentPassword,getCurrentUser,updateAccountDetails,updateUseravatar,updateUserCoverImage,getUserChannelProfile,getWatchHistory}
 
-// this is a usercontroller
