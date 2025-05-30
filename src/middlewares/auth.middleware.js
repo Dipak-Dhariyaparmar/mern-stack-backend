@@ -25,3 +25,5 @@ export const verifyJWT = asynchandler(async(req, _,next) =>{
         throw new apierror(401,error?.message || "Invalid access token")
    }
 })
+
+// this is a auth middleware
