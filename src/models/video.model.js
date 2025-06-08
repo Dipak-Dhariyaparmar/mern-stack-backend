@@ -39,3 +39,5 @@ const videoSchema = new Schema({
 videoSchema.plugin(mongooseAggregatePaginate)
 
 export const Video = mongoose.model("Video", videoSchema)
+
+// this component is a video upload related
