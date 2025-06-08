@@ -26,4 +26,4 @@ export const verifyJWT = asynchandler(async(req, _,next) =>{
    }
 })
 
-// this is a auth middleware
+// this is a auth middleware related component
