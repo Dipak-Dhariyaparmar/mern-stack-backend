@@ -29,3 +29,5 @@ const uploadcloudinary = async (localFilePath) =>{
 }
 
 export {uploadcloudinary}
+
+// this component is a cloudinary related 
