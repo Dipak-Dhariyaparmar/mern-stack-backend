@@ -8,3 +8,4 @@ class apiResponse{
 }
 
 export { apiResponse }
+// this component is a related to api response
