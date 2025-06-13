@@ -12,5 +12,3 @@ const subscriptionSchema = new Schema({
 },{timestamps:true})
 
 export const Subscription = mongoose.model("Subscription", subscriptionSchema)
-
-// this component is asubscripption related
