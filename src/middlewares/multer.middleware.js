@@ -12,4 +12,3 @@ const storage = multer.diskStorage({
   })
   
  export const upload = multer({ storage, })
-// this component is a multer file upload related
